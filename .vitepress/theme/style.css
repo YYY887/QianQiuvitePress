@@ -250,6 +250,12 @@
   text-decoration: none;
 }
 
+.vp-doc .article-item,
+.vp-doc .article-item:hover,
+.vp-doc .article-item * {
+  text-decoration: none;
+}
+
 .article-item:first-child {
   border-top: 0;
 }
