@@ -6,7 +6,7 @@ hero:
   text: "千秋的日常琐碎"
   tagline: 记录项目、日常和学习碎片。
   image:
-    src: https://paper.mytx.fun/20260627181023248.png
+    src: https://paper.mytx.fun/仙尊.jpg
     alt: QianQiu
   actions:
     - theme: brand

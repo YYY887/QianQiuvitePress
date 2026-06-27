@@ -18,7 +18,7 @@ export default defineConfig({
     returnToTopLabel: '回到顶部',
     sidebarMenuLabel: '相关文章',
     lastUpdatedText: '上次更新于',
-    logo: 'https://paper.mytx.fun/20260627181023248.png',
+    logo: 'https://paper.mytx.fun/仙尊.jpg',
     nav: [
       { text: '首页', link: '/' },
       { text: '文章', link: '/posts/今日' },
