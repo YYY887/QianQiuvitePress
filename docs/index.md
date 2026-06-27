@@ -16,9 +16,8 @@ pageClass: qianqiu-home
         <img src="https://paper.mytx.fun/仙尊.jpg" alt="QianQiu" />
         <h1 class="home-title">千秋</h1>
       </div>
-      <p class="home-subtitle">千秋一叶，一叶知秋。</p>
+      <p class="home-subtitle">千秋的琐碎日常</p>
     </div>
-    <div class="home-cover-mark">秋</div>
   </section>
 
   <HomeArticleList />
