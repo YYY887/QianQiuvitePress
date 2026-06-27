@@ -23,6 +23,6 @@ hidden: true
 - [✅] 配置 GitHub Pages 自动部署工作流
 - [✅] 初始化 Git 仓库并提交项目
 - [✅] 推送到 GitHub 远程仓库
-- [✅] 配置 GitHub Pages 自定义域名 blog.qianqiu.fun
+- [✅] 配置 GitHub Pages 自定义域名 www.qianqiu.fun
 - [✅] 将默认主题品牌色从紫色改为橙红色
 - [✅] 修复 GitHub Pages 工作流启用配置
