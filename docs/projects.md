@@ -38,6 +38,11 @@ sidebar: false
   transition: border-color 0.2s ease, background-color 0.2s ease;
 }
 
+.project-card,
+.project-card * {
+  text-decoration: none !important;
+}
+
 .project-card:hover {
   border-color: var(--vp-c-brand-1);
   background: var(--vp-c-brand-soft);

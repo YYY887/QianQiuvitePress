@@ -38,6 +38,7 @@
 }
 
 .home-shell {
+  width: 80%;
   max-width: 1360px;
   margin: 0 auto;
   padding: 34px 24px 40px;
@@ -253,6 +254,7 @@
 
 @media (max-width: 760px) {
   .home-shell {
+    width: 100%;
     padding: 28px 20px 28px;
   }
 
