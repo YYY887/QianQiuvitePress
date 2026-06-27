@@ -26,3 +26,7 @@ hidden: true
 - [✅] 配置 GitHub Pages 自定义域名 www.qianqiu.fun
 - [✅] 将默认主题品牌色从紫色改为橙红色
 - [✅] 修复 GitHub Pages 工作流启用配置
+- [ ] 新增关于页面
+- [ ] 新增项目实战页面并使用 Markdown 挂载 HTML
+- [ ] 更新顶部导航与侧边栏入口
+- [ ] 构建验证新增页面
