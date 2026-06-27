@@ -21,6 +21,6 @@ hidden: true
 - [✅] 恢复 VitePress 默认主题
 - [✅] 构建验证默认主题
 - [✅] 配置 GitHub Pages 自动部署工作流
-- [ ] 初始化 Git 仓库并提交项目
-- [ ] 推送到 GitHub 远程仓库
+- [✅] 初始化 Git 仓库并提交项目
+- [✅] 推送到 GitHub 远程仓库
 - [ ] 等待自定义域名后配置 CNAME
