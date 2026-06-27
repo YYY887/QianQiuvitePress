@@ -27,7 +27,6 @@ sidebar: false
   gap: 16px;
   margin: 24px 0;
 }
-
 .project-card {
   display: block;
   min-height: 150px;

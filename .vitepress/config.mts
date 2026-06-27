@@ -22,8 +22,8 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '文章', link: '/posts/今日' },
-      { text: '项目实战', link: '/projects' },
       { text: '每日流水账', link: '/daily/2026-06-25' },
+      { text: '项目实战', link: '/projects' },
       { text: '关于', link: '/about' }
     ],
 
