@@ -7,6 +7,7 @@ export default defineConfig({
   title: "QianQiu",
   description: "千秋的日常琐碎",
   head: [
+    ['link', { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/style.css' }],
     ['meta', { name: 'theme-color', content: '#ffffff' }],
     ['meta', { property: 'og:title', content: 'QianQiu' }],
     ['meta', { property: 'og:description', content: '千秋的日常琐碎，记录项目、日常和学习碎片。' }]
