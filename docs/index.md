@@ -17,8 +17,10 @@ pageClass: qianqiu-home
         <h1 class="home-title">千秋</h1>
       </div>
       <p class="home-subtitle">千秋的琐碎日常</p>
+      <p class="home-subtitle">有的时候人老了就像念叨两句也不知道为啥</p>
     </div>
   </section>
+
 
   <HomeArticleList />
 </main>
