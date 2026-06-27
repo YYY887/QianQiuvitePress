@@ -1,5 +1,6 @@
 ---
 title: 关于
+sidebar: false
 ---
 
 # 关于
@@ -22,4 +23,3 @@ title: 关于
 ## 联系
 
 QQ邮箱联系我：ymy100861@qq.com
-
