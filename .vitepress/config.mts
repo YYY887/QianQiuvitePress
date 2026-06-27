@@ -29,13 +29,6 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: '站点',
-        items: [
-          { text: '关于', link: '/about' },
-          { text: '项目实战', link: '/projects' }
-        ]
-      },
-      {
         text: '文章',
         items: [
           { text: '今日', link: '/posts/今日' },
