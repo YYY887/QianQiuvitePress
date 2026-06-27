@@ -13,7 +13,6 @@ function formatDate(date: string) {
   <section id="articles" class="article-section">
     <div class="section-head">
       <p>Articles</p>
-      <h2>全部文章</h2>
     </div>
 
     <div class="article-list">
