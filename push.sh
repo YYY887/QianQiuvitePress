@@ -8,21 +8,8 @@ if ! git rev-parse --is-inside-work-tree >/dev/null 2>&1; then
   exit 1
 fi
 
-missing_links=()
-while IFS= read -r file; do
-  link="/${file%.md}"
-  if ! grep -F "link: '$link'" .vitepress/config.mts >/dev/null \
-    && ! grep -F "link: \"$link\"" .vitepress/config.mts >/dev/null; then
-    missing_links+=("$file -> $link")
-  fi
-done < <(find posts daily -type f -name '*.md' | sort)
-
-if [ "${#missing_links[@]}" -gt 0 ]; then
-  echo "以下文章还没有配置到 .vitepress/config.mts 的 sidebar："
-  printf '  - %s\n' "${missing_links[@]}"
-  echo "请先补充 sidebar 入口后再推送"
-  exit 1
-fi
+article_count="$(find docs -mindepth 2 -type f -name '*.md' | wc -l | tr -d ' ')"
+echo "检测到 ${article_count} 篇文章，首页会自动生成文章列表"
 
 npm run docs:build
 
