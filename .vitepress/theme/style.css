@@ -27,10 +27,12 @@
 .qianqiu-home .VPDoc .content,
 .qianqiu-home .VPDoc .content-container {
   max-width: none;
+  width: 100%;
 }
 
 .qianqiu-home .VPDoc .main {
   margin: 0;
+  width: 100%;
 }
 
 .qianqiu-home .vp-doc {
@@ -38,7 +40,7 @@
 }
 
 .home-shell {
-  width: 80%;
+  width: 80vw;
   max-width: 1360px;
   margin: 0 auto;
   padding: 34px 24px 40px;
