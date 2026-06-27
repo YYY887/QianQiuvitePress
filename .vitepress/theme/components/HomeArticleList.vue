@@ -120,12 +120,12 @@ function level(count: number) {
 
     <div class="article-list">
       <a v-for="article in articles" :key="article.url" class="article-item" :href="article.url">
-        <time>{{ formatDate(article.date) }}</time>
         <div class="article-content">
           <div class="article-title-row">
             <h3>{{ article.title }}</h3>
             <span v-if="article.category">{{ article.category }}</span>
           </div>
+          <time>{{ formatDate(article.date) }}</time>
           <p>{{ article.excerpt }}</p>
         </div>
       </a>
