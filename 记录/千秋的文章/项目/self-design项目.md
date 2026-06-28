@@ -1,0 +1,26 @@
+---
+title: self-design 项目
+date: 2026-06-25 15:58:00
+categories: 项目
+tags:
+  - 个人站
+  - React
+---
+
+# self-design项目 是我希望做的有个个人博客简历那种
+
+*2026-06-25 15:58 星期四*
+
+------
+
+## 项目设计
+
+> **前端：react 配合 shadcn组件库 reactbit uiserver**
+
+![image-20260625190510789](https://paper.mytx.fun/image-20260625190510789.png)
+
+![image-20260625190526235](https://paper.mytx.fun/image-20260625190526235.png)
+
+> 现在制作了前端部分的前台 
+
+# 暂时停工 2026-06-27
