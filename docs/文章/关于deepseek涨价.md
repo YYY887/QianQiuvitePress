@@ -1,14 +1,18 @@
+title: deepseek吐槽
+date: 2026-06-29 23:56
+categories: 项目
+
 # 今天看到deepseek开启了高峰期二倍收费
 
 ### 今天跟朋友聊天的时候突然说deepseek开启高峰期二倍
 
-![image-20260629235122651](/home/mytx/.config/Typora/typora-user-images/image-20260629235122651.png)
+![image-20260629235605579](https://paper.mytx.fun/image-20260629235605579.png)
 
 ### 感觉挺合理的说实话
 
 > 我最近也使用过几次deepseek用了大概六块钱，大部分是在codex里面调用的
 >
-> ![](/home/mytx/.config/Typora/typora-user-images/image-20260629235238477.png)
+> ![](https://paper.mytx.fun/image-20260629235238477.png)
 >
 > ### 整体体验感觉可以给到人上人
 
