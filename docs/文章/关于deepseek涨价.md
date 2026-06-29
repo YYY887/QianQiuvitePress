@@ -1,6 +1,8 @@
-title: deepseek吐槽
-date: 2026-06-29 23:56
+---
+title: 关于deepseek涨价的碎碎念
+date: 2026-06-30 00:08
 categories: 项目
+---
 
 # 今天看到deepseek开启了高峰期二倍收费
 

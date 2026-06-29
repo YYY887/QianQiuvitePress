@@ -18,7 +18,13 @@ sidebar: false
     <strong>千秋 Music</strong>
     <p>基于 React 的网易云播放器，仿 iOS 风格。</p>
   </a>
+  <a class="project-card" href="https://study.mytx.fun" target="_blank" rel="noreferrer">
+    <span class="project-tag">资料共享小程序</span>
+    <strong>资料共享小程序</strong>
+    <p>基于七牛云的oss存储，实现资料共享操作</p>
+  </a>
 </div>
+
 
 <style>
 .project-grid {
