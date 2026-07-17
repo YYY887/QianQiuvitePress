@@ -2,13 +2,13 @@
 
 ## 1.制作脚本 使用ai辅助豆包这类
 
-![image-20260703094037338](/home/mytx/.config/Typora/typora-user-images/image-20260703094037338.png)
+![image-20260703094037338](./images/AI漫剧/image-20260703094037338.png)
 
-![image-20260703094112537](/home/mytx/.config/Typora/typora-user-images/image-20260703094112537.png)
+![image-20260703094112537](./images/AI漫剧/image-20260703094112537.png)
 
-![image-20260703094127526](/home/mytx/.config/Typora/typora-user-images/image-20260703094127526.png)
+![image-20260703094127526](./images/AI漫剧/image-20260703094127526.png)
 
-![image-20260703094141307](/home/mytx/.config/Typora/typora-user-images/image-20260703094141307.png)
+![image-20260703094141307](./images/AI漫剧/image-20260703094141307.png)
 
 你是一位擅长捕捉青春与白由气息的AI影视短片导演，对画面风格和镜头语言有独特见解。请你根据以下要求，编写一个时长【2-3 分钟】的AI影视短片脚本，中心思想为{}
 将短片拆解成 8-10个镜头。
@@ -19,14 +19,14 @@
 
 ### 粗人物生成
 
-![image-20260703094436973](/home/mytx/.config/Typora/typora-user-images/image-20260703094436973.png)
+![image-20260703094436973](./images/AI漫剧/image-20260703094436973.png)
 
 ### 细节描述一下概括润色
 
-![image-20260703094545273](/home/mytx/.config/Typora/typora-user-images/image-20260703094545273.png)
+![image-20260703094545273](./images/AI漫剧/image-20260703094545273.png)
 
 
 
 ## 按照生成的人物以及分镜脚本进行生成甄图一阵一阵的
 
-![image-20260703095205308](/home/mytx/.config/Typora/typora-user-images/image-20260703095205308.png)	
+![image-20260703095205308](./images/AI漫剧/image-20260703095205308.png)
