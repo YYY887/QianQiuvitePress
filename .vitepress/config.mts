@@ -8,5 +8,6 @@ export default defineConfig({
     description: '千秋的日常琐碎',
     logo: 'https://paper.mytx.fun/仙尊.jpg'
   }),
+  base: '/QianQiuvitePress/',
   srcDir: 'docs',
 })
